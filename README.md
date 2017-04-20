@@ -1,2 +1,2 @@
 # TestProject
-This is my first test project on Github
+This is my first test repository on Github
